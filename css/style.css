@@ -1,0 +1,59 @@
+body{
+	background-image: url(../images/background.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+
+h1{
+	text-align: center;
+	font-family: apple-chancery;
+	font-size: 65px;
+	font-weight: bold;
+	color: red;
+}
+
+h2{
+	font-family: apple-chancery;
+	font-size: 40px;
+}
+#setName{
+ text-align: center;
+}
+
+#set-name{
+	font-size: 20px;
+}
+
+#submitName{
+	font-size: 20px;
+}
+
+#start{
+	text-align: center;
+	color: red;
+	background-color: green;
+	font-size: 25px;
+	margin-left: 45%;
+	
+}
+
+#redPanda {
+	width:45%;
+	position: relative;
+	max-width: 100%;
+	height: auto;
+
+}
+
+.infor{
+	font-family: apple-chancery;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.actions{
+	font-size: 18px;
+	text-align: center;
+}
+
